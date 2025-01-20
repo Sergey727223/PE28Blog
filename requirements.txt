@@ -1,6 +1,7 @@
 fastapi
 uvicorn
-requests
 pydantic
-openai
-python-dotenv
+openai==0.27.0
+requests
+httpx
+tiktoken
